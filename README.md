@@ -17,5 +17,6 @@ make test TEST=./vault
 make testacc TEST=./builtin/logical/consul
 ```
 
-```
+```yml
+ansible
 ```
